@@ -6,5 +6,6 @@ module.exports = {
     isJSONString: require('./isJSONString'),
     ipV4Int: require('./ipv4-to-int'),
     getDotProperty: require('./getDotProperty'),
-    cpuUsage: require('./cpu-usage')
+    cpuUsage: require('./cpu-usage'),
+    match: require('./match')
 }
