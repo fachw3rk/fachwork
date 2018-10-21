@@ -6,12 +6,12 @@
   "scripts": {
     "test": "jest --no-cache"
   },
-  "author": "",
+  "author": "Kevin Ries <kevin.ries@fachwork.io>",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^4.13.1",
+    "eslint": "^5.7.0",
     "eslint-config-fw": "^1.0.1",
-    "eslint-loader": "^1.9.0",
-    "jest": "^21.2.1"
+    "eslint-loader": "^2.1.1",
+    "jest": "^23.6.0"
   }
 }
